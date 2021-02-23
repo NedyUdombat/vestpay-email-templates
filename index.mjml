@@ -1,0 +1,162 @@
+<mjml version="3.3.3">
+  <mj-body background-color="#FFFFFF">
+    <mj-wrapper background-url="https://res.cloudinary.com/nedy123/image/upload/v1614055734/vestpay/Group_1077.png" padding="25px 45px 0px" background-size="contain">
+      <mj-section padding="0">
+      <mj-column>
+        <mj-image align="left" padding="0" src="https://res.cloudinary.com/nedy123/image/upload/v1614055738/vestpay/Group_1074.png" width="150px"></mj-image>
+      </mj-column>
+      
+      <mj-column>
+        <mj-text align="right" color="#ffffff" font-size="10px" line-height="14px">
+            Friday, Febuary 3, 2021</mj-text>
+      </mj-column>
+      </mj-section>
+      <mj-section padding="70px 0 100px"><mj-column>
+          <mj-text align="center" font-weight="bold" color="#FFFFFF" font-size="36px" line-height="30px" padding="0 0 20px">
+            Farmsponsor’s email
+Template</mj-text></mj-column> </mj-section>
+    </mj-wrapper>
+    
+    <mj-wrapper  background-color="#FFFFFF" padding="0px 70px">
+      
+      <mj-section border-radius="4px" padding="70px 0 0">
+        <mj-column>
+          <mj-text align="left" font-weight="bold" color="#000000" font-size="28px" line-height="30px" padding="0 0 20px">
+            Equity Sponsorship</mj-text>
+          <mj-text align="left" color="#878787" font-size="10px" line-height="18px" padding="0 0 20px">
+            Funding for our farm expansion plan is to be sourced from private equity sponsors, who are interested in a medium-term investment of five years with a minimum equity contribution of N1,000,000 per sponsor.</mj-text>
+          <mj-image align="center" padding="0 0 20px" src="https://res.cloudinary.com/nedy123/image/upload/v1614055909/vestpay/farm_3-01_1.png"></mj-image>
+
+          <mj-text align="left" color="#878787" font-size="10px" line-height="18px" padding="0 0 50px">This debt finance would be serviced by Farmsponsor for five years at the following rates. First Year 17% first six months & 20% second six months, second Year 22% first six months & 25% second six months, third Year 25% first six month & 25% second six month, fourth Year 28% first six month & 28% second six month, fifth Year 30% first six month & 30% second six month. Giving private sponsors a return of 250% in five years. At the end of this period, a debt-equity swap option is open to private sponsors to convert all debt to an equity stake, giving private sponsors ownership interest in Globetrot Farmsponsor Nigeria Limited.</mj-text>
+          
+          <mj-button background-color="#68A83B" color="white" width="170px" height="20px" padding="0 0 60px"  inner-padding="7px 25px" border-radius="6px" font-size="10px">
+          Get Started
+         </mj-button>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    
+     <mj-wrapper  background-color="#FAFAFA" padding="0px 70px">
+      
+      <mj-section border-radius="4px" padding="70px 0 0">
+        <mj-column>
+          <mj-text align="left" font-weight="bold" color="#000000" font-size="28px" line-height="30px" padding="0 0 20px">
+            Vestbanking Wallet</mj-text>
+          <mj-text align="left" color="#878787" font-size="10px" line-height="18px" padding="0 0 20px">
+            Did you know that in our bid to delivering added value all year round to our sponsors, we are glad to introduce our Vestbanking platform to our sponsors, inviting them to vest their funds with Farmsponsor. How does it work? </mj-text>
+          <mj-image align="center" padding="0 0 20px" src="https://res.cloudinary.com/nedy123/image/upload/v1614055906/vestpay/Group_1081.png"></mj-image>
+
+          <mj-text align="left" color="#878787" font-size="10px" line-height="18px" padding="0 0 50px">Vestanking allows sponsors to add more value by keeping their funds with us untill a new sponsorship windows opens, the benefits are enormous as sponsors can now participate in future sponsorship windows in advance and on time. No more missing your sponsorship windows or being told that units are sold out. The minimum vestbanking amount is NGR 1000 however, only a minimum of 1 unit (i.e NGN100,000) can be used to sponsor local farmers in our sponsorship window.</mj-text>
+          
+          <mj-button background-color="#68A83B" color="white" width="170px" height="20px" padding="0 0 60px"  inner-padding="7px 25px" border-radius="6px" font-size="10px">
+          Get Started
+         </mj-button>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+
+
+    <mj-wrapper padding="0px 70px 0">
+      <mj-section padding="40px 0 0">
+      <mj-column>
+        <mj-text align="left" font-weight="bold" color="#000000" font-size="28px" line-height="30px" padding="0 0 30px">What we offer at Farmsponsor
+        </mj-text>
+        
+          </mj-column>
+      </mj-section>
+
+      <mj-section padding="0 0 20px">
+        <mj-column width="12%">
+          <mj-image align="left" padding="0" src="https://res.cloudinary.com/nedy123/image/upload/v1614055905/vestpay/Layer_1.png" width="40px"></mj-image>
+
+        </mj-column>
+        <mj-column width="88%">
+          <mj-text align="left" font-weight="semi-bold" color="#000000" font-size="14px" line-height="14px" padding="0 0 10px">
+            FOGS</mj-text>
+          <mj-text align="left" color="#878787" font-size="10px" line-height="13px" padding="0 60px 0 0">
+            This is the Farmsponsor Out-Grower Scheme, a programme of Farmsponsor that caters for farmers. They enjoy access to quality farm inputs/services (feed, medication, day old chicks, Veterinarian, insurance) and market for mature birds. We set up trainings, seminars, workshops, scholarship programs for farmers, also micro pension scheme, farm consultancy and constructions.</mj-text>
+
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0 0 20px">
+        <mj-column width="12%">
+          <mj-image align="left" padding="0" src="https://res.cloudinary.com/nedy123/image/upload/v1614055904/vestpay/Layer_1_1.png" width="40px"></mj-image>
+
+        </mj-column>
+        <mj-column width="88%">
+          <mj-text align="left" font-weight="semi-bold" color="#000000" font-size="14px" line-height="14px" padding="0 0 10px">
+            BREEDERS FARM</mj-text>
+          <mj-text align="left" color="#878787" font-size="10px" line-height="13px" padding="0 60px 0 0">
+           This is one of the pivotal aspects of the value chain of the poultry business in Nigeria. Breeders produce hatchable eggs to supply the Hatchery. Our breeders’ farm accommodates Cobb 500 and Ross 308 parent stock. </mj-text>
+
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="0 0 40px">
+        <mj-column width="12%">
+          <mj-image align="left" padding="0" src="https://res.cloudinary.com/nedy123/image/upload/v1614055902/vestpay/Layer_1_2.png" width="40px"></mj-image>
+
+        </mj-column>
+        <mj-column width="88%">
+          <mj-text align="left" font-weight="semi-bold" color="#000000" font-size="14px" line-height="14px" padding="0 0 10px">
+            HATCHERY</mj-text>
+          <mj-text align="left" color="#878787" font-size="10px" line-height="13px" padding="0 60px 0 0">
+            It is a facility where eggs are hatched for 21 days under artificial conditions to Day Old Chicks. Our current hatchery installed capacity is 100,000 Day Old Chicks weekly for our farms and commercial purposes. It is located at Afam, Oyigbo Rivers State. </mj-text>
+
+        </mj-column>
+      </mj-section>
+      
+      <mj-section>
+      <mj-column>
+        <mj-button background-color="#68A83B" color="white" width="170px" height="20px" padding="0 0 60px"  inner-padding="7px 25px" border-radius="6px" font-size="10px">
+          Get Started
+         </mj-button>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    
+    
+      
+    <mj-section background-color="#ffffff" padding="10px"></mj-section>
+
+    <mj-wrapper padding="0px">
+
+      <mj-section background-color="#FAFAFA" background-repeat="repeat" background-size="auto" padding="0" text-align="center">
+        <mj-column padding="30px 10px 20px">
+          <mj-text align="center" color="#878787" font-size="10px" line-height="14px" padding="0 0 5px">
+            Copyright &copy; 2021 vestpay, All rights reserved.</mj-text>
+          <mj-text align="center" color="#878787" font-size="10px" line-height="14px" padding="0 0 5px">
+            No 14 old Aba Road Rumuogba by Woji Junction, Port harcourt, Rivers State.</mj-text>
+          <mj-text align="center" color="#878787" font-size="10px" line-height="14px" padding="0 0 5px">
+            Tel: +234 702 5500 035</mj-text>
+          <mj-text align="center" color="#878787" font-size="10px" line-height="14px" padding="0 0 30px">
+            <a href="mailto:vestpay@gmail.com" style="text-decoration: none; color:#4360DF">vestpay@gmail.com</a>
+          </mj-text>
+
+
+          <mj-text align="center" color="#878787" font-size="10px" line-height="14px" padding="0 0 5px">
+            <span><a href="#" style="text-decoration: none; color:#878787; font-weight:bold">Privacy Policy</a></span>
+            <span style="background-color:yellow; width:30px;height:30px"></span>
+            <span><a href="#" style="text-decoration: none; color:#878787; font-weight:bold">Help Center</a></span>
+          </mj-text>
+          <mj-text align="center" color="#878787" font-size="10px" line-height="14px" padding="0 0 5px">
+            Do you want to stop receiveing this emails?</mj-text>
+          <mj-text align="center" color="#878787" font-size="10px" line-height="14px" padding="0">
+            <a href="#" style="text-decoration: none; color:#4360DF">Unsubcribe from our email list.</a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0px 0 30px" background-color="#FAFAFA">
+        <mj-column>
+          <mj-social padding="0" icon-size="15px">
+            <mj-social-element padding="0 15px" src="https://res.cloudinary.com/nedy123/image/upload/v1614040641/vestpay/Group.png" href="#"></mj-social-element>
+            <mj-social-element padding="0 15px" src="https://res.cloudinary.com/nedy123/image/upload/v1614040634/vestpay/Vector_2.png" href="#"></mj-social-element>
+            <mj-social-element padding="0 15px" src="https://res.cloudinary.com/nedy123/image/upload/v1614040636/vestpay/Vector_1.png" href="#"></mj-social-element>
+          </mj-social>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+  </mj-body>
+</mjml>

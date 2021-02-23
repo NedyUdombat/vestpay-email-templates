@@ -1,0 +1,150 @@
+<mjml version="3.3.3">
+  <mj-body background-color="#FFFFFF">
+    <mj-section background-color="#ffffff" padding="20px"></mj-section>
+    <mj-section background-color="#ffffff" padding="10px 0 46px">
+      <mj-column>
+        <mj-image align="left" padding="0" src="https://res.cloudinary.com/nedy123/image/upload/v1614038329/vestpay/logo-full.png" width="100px"></mj-image>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FFFFFF" padding="0px 0 50px">
+      <mj-column>
+        <mj-image align="center" padding="0" src="https://res.cloudinary.com/nedy123/image/upload/v1614051950/vestpay/OBJECTS.png" width="130px"></mj-image>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FFFFFF" background-repeat="repeat" background-size="auto" padding="0" text-align="center">
+      <mj-column padding="0">
+        <mj-text align="center" font-weight="bold" color="#000000" font-size="32px" line-height="30px" padding="0 0 20px">
+          You’re In.</mj-text>
+        <mj-text align="center" color="#000000" font-size="24px" line-height="24px" padding="0 0 30px">
+          Let ‘s help save money for you.</mj-text>
+
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FFFFFF" padding="0px 0px 80px" text-align="center">
+       <mj-column padding="0 0px 5px" width="15%">
+          <mj-image align="center" padding="0" src="https://res.cloudinary.com/nedy123/image/upload/v1614040603/vestpay/Group_1093.png" width="80px"></mj-image>
+        </mj-column>
+        <mj-column padding="0 0px"  width="15%">
+          <mj-image align="center" padding="0" src="https://res.cloudinary.com/nedy123/image/upload/v1614040603/vestpay/Group_1093.png" width="80px"></mj-image>
+        </mj-column>
+    </mj-section>
+
+    <mj-wrapper padding="0px 70px 0">
+      <mj-section border-radius="4px">
+        <mj-column>
+          <mj-image align="center" padding="0 0 70px" src="https://res.cloudinary.com/nedy123/image/upload/v1614052694/vestpay/Group_1097.png"></mj-image>
+
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="0 0 20px">
+        <mj-column width="12%">
+          <mj-image align="left" padding="0" src="https://res.cloudinary.com/nedy123/image/upload/v1614052692/vestpay/pig.png" width="40px"></mj-image>
+
+        </mj-column>
+        <mj-column width="88%">
+          <mj-text align="left" font-weight="semi-bold" color="#000000" font-size="14px" line-height="14px" padding="0 0 5px">
+            Earn from your savings</mj-text>
+          <mj-text align="left" color="#878787" font-size="10px" line-height="11px" padding="0">
+            Get 15% interest per annum on your savings. <br /> Interest will be paid monthly.</mj-text>
+
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0 0 20px">
+        <mj-column width="12%">
+          <mj-image align="left" padding="0" src="https://res.cloudinary.com/nedy123/image/upload/v1614052690/vestpay/tree.png" width="40px"></mj-image>
+
+        </mj-column>
+        <mj-column width="88%">
+          <mj-text align="left" font-weight="semi-bold" color="#000000" font-size="14px" line-height="14px" padding="0 0 5px">
+            Grow your capital</mj-text>
+          <mj-text align="left" color="#878787" font-size="10px" line-height="11px" padding="0">
+            Grow your capital with multiple <br /> investments opportunities.</mj-text>
+
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="0 0 40px">
+        <mj-column width="12%">
+          <mj-image align="left" padding="0" src="https://res.cloudinary.com/nedy123/image/upload/v1614052691/vestpay/cash.png" width="40px"></mj-image>
+
+        </mj-column>
+        <mj-column width="88%">
+          <mj-text align="left" font-weight="semi-bold" color="#000000" font-size="14px" line-height="14px" padding="0 0 5px">
+            Get access to quick loans</mj-text>
+          <mj-text align="left" color="#878787" font-size="10px" line-height="11px" padding="0">
+            Vestpay gives you access to loans to help <br /> with unexpected expenses.</mj-text>
+
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    
+    
+      <mj-wrapper  background-color="#FAFAFA" padding="0px 70px 40px">
+      
+      <mj-section border-radius="4px" padding="100px 0 0">
+        <mj-column>
+          <mj-text align="left" font-weight="bold" color="#000000" font-size="24px" line-height="26px" padding="0 0 15px">
+            About vestpay app</mj-text>
+          <mj-text align="left" color="#878787" font-size="10px" line-height="18px" padding="0 0 20px">
+            VestPay app is an optimum smart way to save toward your goals, pay bills, get loans and invest. VestPay helps you easily create and start an effortless savings structure and culture, gradually towards your goals with 15% interest per annum, get the opportunity to receive loans, and investment opportunities.</mj-text>
+          <mj-image align="center" padding="0 0 40px" src="https://res.cloudinary.com/nedy123/image/upload/v1614052725/vestpay/Group_1096.png"></mj-image>
+
+          <mj-text align="left" color="#878787" font-size="10px" line-height="18px" padding="0 0 20px">We are a consumer loan platform focused on providing a range of credit facilities using digital financial service platforms to provide the quickest and most easily accessible loans to salary earners in Nigeria. We make access to credit easy; no guarantors, no collateral, no complex requirements. You can apply 24/7 and receive funds in your account in as little as 5 minutes. Unlock higher loan amounts and lower interest rates by repaying on time.</mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+    <mj-section background-color="#ffffff" padding="10px"></mj-section>
+
+    <mj-wrapper padding="0px">
+      <mj-section background-color="#FFFFFF" background-repeat="repeat" background-size="auto" padding="20px 0px 0px" text-align="center">
+        <mj-column padding="0 0px 5px" width="15%">
+          <mj-image align="center" padding="0" src="https://res.cloudinary.com/nedy123/image/upload/v1614040603/vestpay/Group_1093.png" width="80px"></mj-image>
+        </mj-column>
+        <mj-column padding="0 0px"  width="15%">
+          <mj-image align="center" padding="0" src="https://res.cloudinary.com/nedy123/image/upload/v1614040603/vestpay/Group_1093.png" width="80px"></mj-image>
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#FFFFFF" background-repeat="repeat" background-size="auto" padding="0" text-align="center">
+        <mj-column padding="30px 10px 20px">
+          <mj-text align="center" color="#878787" font-size="10px" line-height="14px" padding="0 0 5px">
+            Copyright &copy; 2021 vestpay, All rights reserved.</mj-text>
+          <mj-text align="center" color="#878787" font-size="10px" line-height="14px" padding="0 0 5px">
+            No 14 old Aba Road Rumuogba by Woji Junction, Port harcourt, Rivers State.</mj-text>
+          <mj-text align="center" color="#878787" font-size="10px" line-height="14px" padding="0 0 5px">
+            Tel: +234 702 5500 035</mj-text>
+          <mj-text align="center" color="#878787" font-size="10px" line-height="14px" padding="0 0 30px">
+            <a href="mailto:vestpay@gmail.com" style="text-decoration: none; color:#4360DF">vestpay@gmail.com</a>
+          </mj-text>
+
+
+          <mj-text align="center" color="#878787" font-size="10px" line-height="14px" padding="0 0 5px">
+            <span><a href="#" style="text-decoration: none; color:#878787; font-weight:bold">Privacy Policy</a></span>
+            <span style="background-color:yellow; width:30px;height:30px"></span>
+            <span><a href="#" style="text-decoration: none; color:#878787; font-weight:bold">Help Center</a></span>
+          </mj-text>
+          <mj-text align="center" color="#878787" font-size="10px" line-height="14px" padding="0 0 5px">
+            Do you want to stop receiveing this emails?</mj-text>
+          <mj-text align="center" color="#878787" font-size="10px" line-height="14px" padding="0">
+            <a href="#" style="text-decoration: none; color:#4360DF">Unsubcribe from our email list.</a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0px 0 30px" background-color="#FFFFFF">
+        <mj-column>
+          <mj-social padding="0" icon-size="15px">
+            <mj-social-element padding="0 15px" src="https://res.cloudinary.com/nedy123/image/upload/v1614040641/vestpay/Group.png" href="#"></mj-social-element>
+            <mj-social-element padding="0 15px" src="https://res.cloudinary.com/nedy123/image/upload/v1614040634/vestpay/Vector_2.png" href="#"></mj-social-element>
+            <mj-social-element padding="0 15px" src="https://res.cloudinary.com/nedy123/image/upload/v1614040636/vestpay/Vector_1.png" href="#"></mj-social-element>
+          </mj-social>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+  </mj-body>
+</mjml>
